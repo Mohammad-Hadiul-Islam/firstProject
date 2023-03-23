@@ -11,7 +11,6 @@ namespace control_flow
         static void Main(string[] args)
         {
             Console.WriteLine("hello World");
-            Console.WriteLine("I am Hadiul");
         }
     }
 }
